@@ -29,7 +29,7 @@
 `TODO://` Creating flashcards
 
 ### App Walk-though
-![x](https://i.imgur.com/1PmL1Cl.gif)
+![x](https://i.imgur.com/pxahOu2.gif)
 
 ## Required
 - [x] User can open the creation screen
